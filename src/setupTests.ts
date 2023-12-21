@@ -1,4 +1,4 @@
-// setupTests.js
+// setupTests.ts
 
 import "@testing-library/jest-dom";
 import { mswServer } from "./mocks/node";
